@@ -13,6 +13,7 @@
 		046336582489097B005E9D6C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 046336562489097B005E9D6C /* Main.storyboard */; };
 		0463365A2489097D005E9D6C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 046336592489097D005E9D6C /* Assets.xcassets */; };
 		0463365D2489097D005E9D6C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0463365B2489097D005E9D6C /* LaunchScreen.storyboard */; };
+		04633665248909C7005E9D6C /* idiom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04633664248909C7005E9D6C /* idiom.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		046336592489097D005E9D6C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0463365C2489097D005E9D6C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0463365E2489097D005E9D6C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04633664248909C7005E9D6C /* idiom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = idiom.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				046336522489097B005E9D6C /* SceneDelegate.swift */,
 				046336542489097B005E9D6C /* ViewController.swift */,
 				046336562489097B005E9D6C /* Main.storyboard */,
+				04633664248909C7005E9D6C /* idiom.swift */,
 				046336592489097D005E9D6C /* Assets.xcassets */,
 				0463365B2489097D005E9D6C /* LaunchScreen.storyboard */,
 				0463365E2489097D005E9D6C /* Info.plist */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04633665248909C7005E9D6C /* idiom.swift in Sources */,
 				046336552489097B005E9D6C /* ViewController.swift in Sources */,
 				046336512489097B005E9D6C /* AppDelegate.swift in Sources */,
 				046336532489097B005E9D6C /* SceneDelegate.swift in Sources */,
