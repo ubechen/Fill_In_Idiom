@@ -14,8 +14,15 @@ import Foundation
 //}
 
 struct Ques {
+    // 問題圖片
     var image: String
+    
+    // 問題文字
     var description: String
+    
+    // 答案選項
     var option: [String]
+    
+    // 正確答案
     var answer: String
 }
